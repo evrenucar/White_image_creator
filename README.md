@@ -1,4 +1,5 @@
-# white_image_creator
- generates a cpmpletely white version of the image specified
+# White Image Creator
 
-![Alt text](white_image_creator\use.png)
+The script generates a completely white version of the image specified white keeping the same resolution. Saves it as a .jpeg and adds "-white" to the end of the filename
+
+![Visual](https://github.com/evrenucar/White_image_creator/blob/main/use.png)
