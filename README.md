@@ -13,7 +13,8 @@ The script generates a completely white version of the image specified white kee
 
 ### 3. Browse to the directory of the image you'd like to make white
 
-### 4. Run `python white_script.py "your image name"`
+### 4. Run the script pointing to your image
+`python white_script.py "your image name"`
 
 
 ### 5. Enjoy!
